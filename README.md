@@ -10,7 +10,7 @@ First time running anything the SDL libraries will have to be compiled, and they
 
 ### On *nix
 
-If using *nix you'll probably want to install SDL development packages using whatever package manager you have, and then you'll need to set up the `CGO_*` environment variables to point to the SDL directories.
+If using \*nix you'll probably want to install SDL development packages using whatever package manager you have, and then you'll need to set up the `CGO_*` environment variables to point to the SDL directories.
  
 ```
 CGO_CFLAGS="-I/path/to/sdl/include"
