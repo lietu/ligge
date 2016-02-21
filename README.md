@@ -41,6 +41,3 @@ set CGO_CFLAGS=-Ic:/msys64/mingw64/include
 set CGO_LDFLAGS=-Lc:/msys64/mingw64/lib
 ```
 
-
-
-pacman -S mingw-w64-x86_64-openal
